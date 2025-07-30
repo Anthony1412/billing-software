@@ -1,0 +1,16 @@
+	    WELCOME TO RETAIL SHOP
+
+Bill No. : 3348
+Customer Name : anthony
+Phone No. : carvalho
+----------------------------------------
+Product		QTY	Price
+----------------------------------------
+
+Cosmetics Total     : ₹       490
+Grocery Total       : ₹         0
+Cold Drinks Total   : ₹         0
+Total Tax           : ₹     24.50
+========================================
+Total Amount        : ₹    514.50
+========================================
